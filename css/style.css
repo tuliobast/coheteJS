@@ -1,0 +1,10 @@
+body{
+  background-color:black;
+}
+img{
+  max-width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  position:absolute;
+  bottom:0;
+}
